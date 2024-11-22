@@ -62,3 +62,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#para correr: streamlit run app.py
